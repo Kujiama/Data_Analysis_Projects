@@ -4,7 +4,7 @@ This repository contains my data analysis projects. Each Project folder includes
 
 ## Table of Contents
 
-
+- [Project 1: Data Cleaning and Exploratory Data Analysis of Layoffs](layoffs_2022/)
 
 ## How this repository works
 
