@@ -1,0 +1,12 @@
+# Data Analysis Projects
+
+This repository contains my data analysis projects. Each Project folder includes the necessarry files and documentation to produce and understand the analysis
+
+## Table of Contents
+
+
+
+## How this repository works
+
+- Each project have their own folder
+- Refer to the `README.md` in each project folder for more information about the project, methodology, and findings.
